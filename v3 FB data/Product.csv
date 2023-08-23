@@ -1,0 +1,6 @@
+PartNumber,ProductNumber,ProductDescription,ProductDetails,UOM,Price,Class,Active,Taxable,ComboBox,AllowUOM,ProductURL,ProductPictureURL,ProductUPC,ProductSKU,ProductSOItemType,IncomeAccount,Weight,WeightUOM,Width,Height,Length,sizeUOM,DefaultFlag,AlertNote,CartonCount,CartonType,CF-Attri Color,CF-Attri Size
+WC-0000001,AA-P-01,Blue,Blue Variance,ea,50,,TRUE,TRUE,TRUE,TRUE,,,,AA-P-01,Sale,,0,lbs,0,0,0,ft,TRUE,,,,Blue,
+WC-0000001,AA-P-02,Red,Red variance,ea,70,,TRUE,TRUE,TRUE,TRUE,,,,AA-P-02,Sale,,0,lbs,0,0,0,ft,FALSE,,,,Red,
+WC-0000002,AA-P-03,Color and Size,,ea,10,,TRUE,TRUE,TRUE,TRUE,,,,AA-P-03,Sale,,0,lbs,0,0,0,ft,TRUE,,,,Gray,Large
+WC-0000002,AA-P-04,Color and Size,,ea,60,,TRUE,TRUE,TRUE,TRUE,,,,AA-P-04,Sale,,0,lbs,0,0,0,ft,FALSE,,,,Red,Small
+WC-0000002,AA-P-05,Color and Size,,ea,30,,TRUE,TRUE,TRUE,TRUE,,,,AA-P-05,Sale,,0,lbs,0,0,0,ft,FALSE,,,,Blue,Middle
